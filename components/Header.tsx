@@ -10,7 +10,7 @@ const Header = () => {
       <div className="main-container inner ">
         <Link href="/">
         <div className="flex items-center gap-2">
-                    <Image src="logo.svg" alt="CoinPulse logo" width={40} height={40}/>
+                    <Image src="/logo.svg" alt="CoinPulse logo" width={40} height={40}/>
 <span className="ml-2 text-white font-bold">MarketForge</span>
         </div>
         </Link>
